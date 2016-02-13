@@ -5,7 +5,7 @@ public abstract class MyEnvironmentSettings {
 	private static final String USERNAME = "";
 	private static final String PASSWORD = "";
 	private static final String DEVICENAME = "";
-//	private static final String DEVICENAME = "9969D14B461147730C223BF7D7260C07B1BCF84C";	
+//	private static final String DEVICENAME = "";	
 	private static final String REPORTPATH = "c:/test/report";
 /*
 	
