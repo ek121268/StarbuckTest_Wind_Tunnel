@@ -8,9 +8,7 @@ public abstract class MyEnvironmentSettings {
 //	private static final String DEVICENAME = "";	
 	private static final String REPORTPATH = "c:/test/report";
 /*
-	
 	*/
-
 /*	
 	// ## ===>>	Your Perfecto cloud credentials 
 	private static final String HOST = "yourCloud.perfectomobile.com";

@@ -46,9 +46,9 @@ public class MobileRemoteTest {
 				e.printStackTrace();
 			}
 
-//			PerfectoUtils.startDeviceLog(driver);
+			PerfectoUtils.startDeviceLog(driver);
 			StarbucksTest.runTest(driver, measuredLaunchTime, measuredNavTime, false);
-//			PerfectoUtils.stopDeviceLog(driver);				
+			PerfectoUtils.stopDeviceLog(driver);				
 				
 		} catch (Exception e) {
 			e.printStackTrace();
